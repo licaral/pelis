@@ -1,0 +1,11 @@
+{	"peliculas" : [
+		{
+			"nombre" : "la casona",
+			"tipo" : "ficcion"
+		},
+		{
+			"nombre" : "El ultimo día",
+			"tipo" : "accion"
+		}
+	]
+}
